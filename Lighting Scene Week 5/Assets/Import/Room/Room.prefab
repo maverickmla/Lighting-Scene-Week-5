@@ -497,6 +497,7 @@ GameObject:
   - component: {fileID: 8216954912098906647}
   - component: {fileID: 1302427661611621521}
   - component: {fileID: 8493506531193304406}
+  - component: {fileID: 1776277106979716078}
   m_Layer: 0
   m_Name: Object_10
   m_TagString: Untagged
@@ -567,6 +568,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!154 &1776277106979716078
+TerrainCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3793496177813632225}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 0}
+  m_EnableTreeColliders: 1
 --- !u!1 &4502321747471800707
 GameObject:
   m_ObjectHideFlags: 0
