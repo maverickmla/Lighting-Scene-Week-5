@@ -523,6 +523,22 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &1112841845 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3793496177813632225, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+  m_PrefabInstance: {fileID: 315871529}
+  m_PrefabAsset: {fileID: 0}
+--- !u!154 &1112841846
+TerrainCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1112841845}
+  m_Material: {fileID: 0}
+  m_Enabled: 1
+  m_TerrainData: {fileID: 0}
+  m_EnableTreeColliders: 1
 --- !u!1 &1125684333
 GameObject:
   m_ObjectHideFlags: 0
