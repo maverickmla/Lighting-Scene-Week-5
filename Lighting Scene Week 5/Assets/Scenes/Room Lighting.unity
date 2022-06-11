@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45083457, g: 0.49906582, b: 0.56561935, a: 1}
+  m_IndirectSpecularColor: {r: 0.18337178, g: 0.22721967, b: 0.29587197, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -128,11 +128,87 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
-    m_TransformParent: {fileID: 0}
+    m_TransformParent: {fileID: 699341023}
     m_Modifications:
+    - target: {fileID: 188262953986451646, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1202672123097847289, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1386211747248069567, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 1933766766446166776, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2040351478708409843, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 2554915674263254395, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 3793496177813632225, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4502321747471800707, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4704332369832272136, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 4883513247061470811, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5055709307495899947, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5243258745546686422, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5614105184289229488, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735009317410009594, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: 6344548455701465566, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
       propertyPath: m_Name
       value: Room
+      objectReference: {fileID: 0}
+    - target: {fileID: 6344548455701465566, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 6800649771259247693, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 7746571599796873448, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8046049642086418184, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8244953448884722384, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8542645699759895733, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
       propertyPath: m_RootOrder
@@ -177,6 +253,10 @@ PrefabInstance:
     - target: {fileID: 8542645699759895733, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: -1.264
+      objectReference: {fileID: 0}
+    - target: {fileID: 8891808052947359408, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
+      propertyPath: m_Layer
+      value: 14
       objectReference: {fileID: 0}
     - target: {fileID: 8964503633720152811, guid: f15ae56913a149d4ea7bbd9d6b357c75, type: 3}
       propertyPath: m_LocalPosition.x
@@ -235,7 +315,7 @@ GameObject:
   m_Component:
   - component: {fileID: 523286277}
   - component: {fileID: 523286278}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Point Light (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -318,6 +398,38 @@ Light:
   m_UseViewFrustumForShadowCasterCull: 1
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+--- !u!1 &699341022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 699341023}
+  m_Layer: 14
+  m_Name: Environment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &699341023
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 699341022}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1518843875}
+  - {fileID: 315871530}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &779478707
 GameObject:
   m_ObjectHideFlags: 0
@@ -328,7 +440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 779478708}
   - component: {fileID: 779478709}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Spot Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -421,7 +533,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1125684334}
   - component: {fileID: 1125684335}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Point Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -514,7 +626,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1453730525}
   - component: {fileID: 1453730526}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Directional Light
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -607,23 +719,14 @@ GameObject:
   m_Component:
   - component: {fileID: 1518843875}
   - component: {fileID: 1518843874}
-  - component: {fileID: 1518843873}
   - component: {fileID: 1518843876}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Main Camera
   m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!81 &1518843873
-AudioListener:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1518843872}
-  m_Enabled: 1
 --- !u!20 &1518843874
 Camera:
   m_ObjectHideFlags: 0
@@ -631,7 +734,7 @@ Camera:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1518843872}
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 2
   m_ClearFlags: 1
   m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
@@ -678,7 +781,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 14.18, z: -12.446}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 0}
+  m_Father: {fileID: 699341023}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 20.968, y: 0, z: 0}
 --- !u!114 &1518843876
@@ -725,7 +828,7 @@ GameObject:
   - component: {fileID: 1643348083}
   - component: {fileID: 1643348082}
   - component: {fileID: 1643348081}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -818,7 +921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2071463109}
   - component: {fileID: 2071463110}
-  m_Layer: 0
+  m_Layer: 14
   m_Name: Reflection Probe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
