@@ -24,7 +24,7 @@ RenderSettings:
   m_AmbientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
   m_AmbientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
   m_AmbientIntensity: 1
-  m_AmbientMode: 0
+  m_AmbientMode: 1
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
   m_SkyboxMaterial: {fileID: 10304, guid: 0000000000000000f000000000000000, type: 0}
   m_HaloStrength: 0.5
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18337178, g: 0.22721967, b: 0.29587197, a: 1}
+  m_IndirectSpecularColor: {r: 0.14552319, g: 0.16165714, b: 0.16295272, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -348,7 +348,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 10
+  m_Intensity: 40
   m_Range: 20
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -473,7 +473,7 @@ Light:
   m_Type: 0
   m_Shape: 0
   m_Color: {r: 0.754717, g: 0.5826435, b: 0.33226532, a: 1}
-  m_Intensity: 2500
+  m_Intensity: 30000
   m_Range: 15
   m_SpotAngle: 56.924595
   m_InnerSpotAngle: 21.80208
@@ -566,7 +566,7 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 10
+  m_Intensity: 20
   m_Range: 20
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
@@ -640,13 +640,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1453730524}
-  m_LocalRotation: {x: 0.8928095, y: -0.05042315, z: 0.4355035, w: 0.10337048}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalRotation: {x: 0.74154055, y: -0.31568614, z: 0.5293616, w: -0.26502115}
+  m_LocalPosition: {x: -0.03, y: 0.12, z: 0.03}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 315871530}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 166.791, y: -52.005005, z: 0}
+  m_LocalEulerAnglesHint: {x: 183.372, y: -72.56601, z: 48.595993}
 --- !u!108 &1453730526
 Light:
   m_ObjectHideFlags: 0
@@ -659,13 +659,13 @@ Light:
   m_Type: 1
   m_Shape: 0
   m_Color: {r: 0.8490566, g: 0.16553926, b: 0.16553926, a: 1}
-  m_Intensity: 0.5
+  m_Intensity: 20
   m_Range: 10
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 2
+    m_Type: 1
     m_Resolution: -1
     m_CustomResolution: -1
     m_Strength: 1
